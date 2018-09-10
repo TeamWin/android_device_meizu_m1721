@@ -86,7 +86,6 @@ TW_THEME := portrait_hdpi
 TW_HAS_DOWNLOAD_MODE := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_HAS_REBOOT_EDL := true
-TARGET_USES_LOGD := true
 TW_USE_NEW_MINADBD := true
 
 # Encryption
